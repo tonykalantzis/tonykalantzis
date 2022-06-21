@@ -6,7 +6,7 @@
 
 
 </p>
-<div size='50px'> <b>Hi! My name is Antony Kalantzis. </b>:smile: 
+<div size=200px'> <b>Hi! My name is Antony Kalantzis. </b>:smile: 
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 50px></h2>
