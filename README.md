@@ -34,7 +34,7 @@
 <a href= https://github.com/tonykalantzis?tab=repositories&q=&type=&language=java&sort= > <img width ="4%" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
 
 
-<h1> Connect with me <img width="7%" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h1>
+<h1> Connect with me <img width="8%" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h1>
 <a href = 'https://www.linkedin.com/in/antoniskalantzis'> <img width = "4%" align= center src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a  href = 'https://www.github.com/tonykalantzis'> <img width = "4%" align= center src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
@@ -58,7 +58,7 @@
 <br>
 <br>
 
-<h1> Some Programming Humor for you <img width="5%" src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h1>
+<h1> Some Programming Humor for you <img width="4%" src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h1>
 
 <img src="https://programming-joke-card.jayvishaalj.vercel.app/api" alt="Jokes Card" />
 
