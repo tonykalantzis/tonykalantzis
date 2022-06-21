@@ -9,7 +9,7 @@
 </p>
 <h1 size=200px'> <b>Hi! My name is Antony Kalantzis. </b>:slightly_smiling_face: 
 </h1>
-<br> 
+ 
 <h1> About Me </h1>
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -21,7 +21,7 @@
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
-- 💬 Talk to me about Coding, New Technologies, Coding, Agile, Freelancing Opportunites 
+- 💬 Talk to me about Coding, New Technologies, Agile, Freelancing Opportunites 
                 
                 
  <br>    
