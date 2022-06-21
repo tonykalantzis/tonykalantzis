@@ -4,7 +4,7 @@
 </div>
 
 </p>
-<div size='20px'> **Hi! My name is Antony Kalantzis.** :smile: 
+<div size='20px'> <b>Hi! My name is Antony Kalantzis. </b>:smile: 
 </div>
 
 
