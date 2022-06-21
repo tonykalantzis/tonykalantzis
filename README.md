@@ -1,12 +1,13 @@
+
 <div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+<!img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
 </div>
 
 
 
 
 </p>
-<h1 size=200px'> <b>Hi! My name is Antony Kalantzis. </b>:smile: 
+<h1 size=200px'> <b>Hi! My name is Antony Kalantzis. </b>:slightly_smiling_face: 
 </h1>
 <br> 
 <h1> About Me </h1>
