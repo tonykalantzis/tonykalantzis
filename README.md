@@ -17,7 +17,7 @@
 
 - 📖 I’m studying @ NKUA-Informatics & Telecommunications
 
-- 🌱 I’m learning Data Science,Data Engineering and Informatics 
+- 🌱 I’m learning Informatics and Programming  
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
