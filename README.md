@@ -35,14 +35,17 @@
 <a href="https://github.com/anuraghazra/convoychat">
 <!img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonykalantzis&theme=default" />
 </a>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-<h2> Some Programming Humor for you <img width="4%" src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h2>  Some Programming Humor for you <img width="4%" src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'>
+</h2>
+
 
 <img src="https://programming-joke-card.jayvishaalj.vercel.app/api" alt="Jokes Card" />
-
-<br>
