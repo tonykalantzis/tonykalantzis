@@ -53,3 +53,11 @@
 <div align="center">
 <img width ="80%" src ='/assets/Etienne_Jacob.gif'>
 </div>
+
+<details>
+<summary>Tech portfolio</summary>
+<p align="center">
+    
+    
+</p>
+</details>
