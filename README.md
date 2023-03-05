@@ -50,5 +50,6 @@
 
 <img src="https://programming-joke-card.jayvishaalj.vercel.app/api" alt="Jokes Card" />
 -->
-
-![](/assets/Etienne_Jacob.gif)
+<div align="center">
+<img width ="80%" src ='/assets/Etienne_Jacob.gif'>
+</div>
