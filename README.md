@@ -5,7 +5,7 @@
 <details>
 <summary>Tech</summary>
  <p align = "right">
-   <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=tonykalantzis&title_color=d4d4d4&bg_color=45deg,000000,222222&show_icons=true&text_color=909090&icon_color=676767&hide_border=true" />
+   <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=tonykalantzis&title_color=d4d4d4&bg_color=45deg,000000,222222&show_icons=true&text_color=909090&icon_color=676767&hide_border=true" />
  </p>
 <p align="left">
     <br>
@@ -18,7 +18,6 @@
     <a href= https://github.com/tonykalantzis?tab=repositories&q=&type=&language=c&sort= > <img width ="4%" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
     <a href= https://github.com/tonykalantzis?tab=repositories&q=&type=&language=javascript&sort= > <img width ="4%" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
      <a href= https://github.com/tonykalantzis?tab=repositories&q=&type=&language=javascript&sort= > <img width ="4%" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'> </a>
-    <a href= https://github.com/tonykalantzis?tab=repositories&q=&type=&language=java&sort= > <img width ="4%" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
     <a href= https://github.com/tonykalantzis?tab=repositories&q=&type=&language=java&sort= > <img width ="4%" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
     <a href= https://github.com/tonykalantzis?tab=repositories&q=&type=&language=java&sort= > <img width ="4%" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
     </p>
