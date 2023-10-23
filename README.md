@@ -16,6 +16,8 @@
     <a href= https://github.com/tonykalantzis?tab=repositories&q=&type=&language=git&sort= > <img width ="4%" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
     <a href= https://github.com/tonykalantzis?tab=repositories&q=&type=&language=docker&sort= > <img width ="4%" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
      <a href= https://github.com/tonykalantzis?tab=repositories&q=&type=&language=kubernetes&sort= > <img width ="4%" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'> </a>
+ <a href= https://github.com/tonykalantzis?tab=repositories&q=&type=&language=kubernetes&sort= > <img width ="4%" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/matlab.svg'> </a>
+ <a href= https://github.com/tonykalantzis?tab=repositories&q=&type=&language=kubernetes&sort= > <img width ="4%" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
     <a href= https://github.com/tonykalantzis?tab=repositories&q=&type=&language=linux&sort= > <img width ="4%" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
     <a href= https://github.com/tonykalantzis?tab=repositories&q=&type=&language=java&sort= > <img width ="4%" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
     </p>
