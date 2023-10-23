@@ -1,5 +1,8 @@
 <div align="center">
-<img width ="80%" src ='/assets/Etienne_Jacob.gif'>
+ <!--Credit for the animation to Etienne Jacob at https://github.com/Bleuje-->
+  <a href=“https://github.com/Bleuje”>
+    <img width ="80%" src ='/assets/Etienne_Jacob.gif' >
+  <\a>
 </div>
 
 <details>
