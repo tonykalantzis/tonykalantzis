@@ -6,7 +6,9 @@
 <details>
 <summary>Tech</summary>
  <p align = "middle">
-   <img align="middle" width="55%" src="https://github-readme-stats.vercel.app/api?username=tonykalantzis&title_color=d4d4d4&bg_color=45deg,000000,222222&show_icons=true&text_color=b0b0b0&icon_color=676767&hide_border=true" />
+  <!--
+    <img align="middle" width="55%" src="https://github-readme-stats.vercel.app/api?   username=tonykalantzis&title_color=d4d4d4&bg_color=45deg,000000,222222&show_icons=true&text_color=b0b0b0&icon_color=676767&hide_border=true" />
+  -->
  </p>
 
 <p align="middle">
