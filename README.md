@@ -5,11 +5,10 @@
 
 <details>
 <summary>Tech</summary>
- <!--
  <p align = "middle">
    <img align="middle" width="55%" src="https://github-readme-stats.vercel.app/api?username=tonykalantzis&title_color=d4d4d4&bg_color=45deg,000000,222222&show_icons=true&text_color=b0b0b0&icon_color=676767&hide_border=true" />
  </p>
-  -->
+
 <p align="middle">
     <a href= https://github.com/tonykalantzis?tab=repositories&q=&type=&language=cpp&sort= > <img width ="4%" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
     <a href= https://github.com/tonykalantzis?tab=repositories&q=&type=&language=python&sort= > <img width ="4%" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
