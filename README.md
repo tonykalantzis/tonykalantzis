@@ -34,7 +34,8 @@
 <summary><b>Click for an artwork</summary>
 The elasticity of the VMs - Etienne Jacob
 <br>
-<div align="center">
+<br>
+<div align="left">
  <!--Credit for the animation to Etienne Jacob at https://github.com/Bleuje Truly a fan-->
   <a href="https://bleuje.com/animationsite/" target="_blank"><img width="50%" src ='/assets/Etienne_Jacob2.gif'></a>
 </div>
